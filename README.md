@@ -1,9 +1,4 @@
 # Fire-fighting-Robot
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-</style>
 <br>
 <b>Hardware requirement</b>
 <br>
@@ -62,7 +57,7 @@ table, th, td {
 <br>
 <b>Software requirement</b>
 <ul>
-	<i>Python3</i>
+	<li>Python3</li>
 	<li>OpenCV</li>
 	<li>RPi Library</li>
 </ul>
