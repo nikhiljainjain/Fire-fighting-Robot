@@ -1,6 +1,18 @@
 # Fire-fighting-Robot
 <br>
+<h2>Physical Look of Robot</h2>
+<br>
+<img src="./media/robot.jpg" />
+<br>
+<b>Software requirement</b>
+<ul>
+	<li>Python3</li>
+	<li>OpenCV Library</li>
+	<li>RPi Library</li>
+</ul>
+<br>
 <b>Hardware requirement</b>
+<br>
 <br>
 <table>
 	<thead>
@@ -53,15 +65,13 @@
 		<td>Motors</td>
 		<td>2</td>
 	</tr>
+	<tr>
+		<td>Bread board</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>Jumping Wires</td>
+		<td>25 to 30</td>
+	</tr>
 </table>
-<br>
-<b>Software requirement</b>
-<ul>
-	<li>Python3</li>
-	<li>OpenCV</li>
-	<li>RPi Library</li>
-</ul>
-<br>
-<h2>Physical Look of Robot</h2>
-<br>
-<img src="./media/robot.jpg" />
+
